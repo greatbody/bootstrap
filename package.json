@@ -93,7 +93,7 @@
     "bundlesize": "^0.15.3",
     "clean-css-cli": "^4.1.10",
     "cross-env": "^5.1.1",
-    "eslint": "^4.12.0",
+    "eslint": "^4.12.1",
     "eslint-plugin-compat": "^2.1.0",
     "glob": "^7.1.2",
     "htmllint-cli": "^0.0.6",
