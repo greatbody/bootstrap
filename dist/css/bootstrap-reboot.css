@@ -11,6 +11,10 @@
   box-sizing: border-box;
 }
 
+.do {
+  height: 33px;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
